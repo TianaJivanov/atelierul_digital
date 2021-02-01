@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">Travel Journal</string>
+    <string name="journey">Journey</string>
+    <string name="travel_journal">Travel Journal</string>
+    <string name="personal_email">tiana_jivanov@yahoo.com</string>
+    <string name="full_name">Jivanov Tiana</string>
+    <string name="home">Home</string>
+    <string name="about_us">About us</string>
+    <string name="contact">Contact</string>
+    <string name="menu_title_home">Home</string>
+    <string name="menu_title_about_us">About us</string>
+    <string name="menu_title_contact">Contact</string>
+    <string name="menu_group_title_communication">Communication</string>
+    <string name="menu_title_share">Share</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
 </resources>
